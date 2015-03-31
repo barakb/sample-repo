@@ -1,0 +1,8 @@
+foo
+foo1
+foo3
+<<<<<<< HEAD
+foo5
+=======
+foo3
+>>>>>>> adding foo 2
