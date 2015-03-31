@@ -1,0 +1,8 @@
+foo
+foo1
+foo3
+<<<<<<< HEAD
+foo3
+=======
+foo5
+>>>>>>> branch
